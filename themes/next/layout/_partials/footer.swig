@@ -23,7 +23,7 @@
 
 {% if theme.footer.powered %}
   <div class="powered-by">{#
-  #}{{ __('footer.powered', '&mdash; <a class="theme-link" target="_blank" href="https://visuper.github.io">Visuper - Home</a>') }}{#
+  #}{{ __('footer.powered', '&mdash; <a class="theme-link" target="_blank" href="https://onikiri.github.io">Onikiri - Home</a>') }}{#
 #}</div>
 {% endif %}
 
@@ -34,8 +34,8 @@
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
   #}{{ __('footer.theme') }} &mdash; {#
-  #}<a class="theme-link" target="_blank" href="https://visuper.github.io/visuper-blog/">{#
-    #}Visuper - Notes{#
+  #}<a class="theme-link" target="_blank" href="https://onikiri.github.io/onikiri-blog/">{#
+    #}Onikiri - Notes{#
   #}</a>{% if theme.footer.theme.version %}{% endif %}{#
 #}</div>
 

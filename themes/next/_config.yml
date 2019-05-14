@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Visuper"
+keywords: "Onikiri"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -119,7 +119,7 @@ scheme: Muse
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/Visuper || github
+  GitHub: https://github.com/Onikiris || github
   E-Mail: mailto:visuper@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/Ponnenults || twitter
